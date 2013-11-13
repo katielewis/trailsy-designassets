@@ -1,4 +1,4 @@
 trailsy-designassets
 ====================
 
-Downloadable art files for Trailsy app.
+This repo provides downloadable .eps files and a style guide for Trailsy (To The Trails).
